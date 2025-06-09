@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "title": "React Fundamentals",
+      "image_url": "https://miro.medium.com/max/1050/1*i3hzpSEiEEMTuWIYviYweQ.png",
+      "discription": "Learn the basics of React including components, props, state, and event",
+      "category": "frontend",
+      "status": "progress"
+    },
+    {
+      "id": 2,
+      "title": "Node.js Backend Development",
+      "image_url": "https://www.accusoft.com/wp-content/uploads/THL_Blog_Engineering_BL_Node_js-Framing-banner.jpg.webp",
+      "discription": "Master server-side development with Node.js, Express.js, and database",
+      "category": "backend",
+      "status": "progress"
+    }
+  ]
+}
